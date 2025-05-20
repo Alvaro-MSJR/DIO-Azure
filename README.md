@@ -41,8 +41,9 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
   2) Não usamos uma conta de estudande, usamos uma contra free por 30 dias.
   3) Veremos os prints de passo a passo da criação da conta e a criação de um recurso que no caso e o Data Fabric
   4) Alteramos o idioma para inglês durante o processo de criação de subscription (assinatura)
-     <p align="center">
-       <img width="100" src=".asset/1_Assinatura_azure.jpg">
+     <p align="left">
+       <img width="100" src="asset/1_Assinatura_azure.jpg">
+          <img width="100" src="asset/1_Assinatura_azure.jpg">
      </p>
 
 ## 👨‍💻 Desenvolvedor/Aluno
