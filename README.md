@@ -51,14 +51,14 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
               Metrica de Segurança
               Metrica de Contagem de Pipelines executados
       <p align="left">
-       <img width="100" src="asset/2_DashboardPrincipal.jpg">
+       <img width="100" src="asset/2_Dashboardprincipal.jpg">
       </p>
   6) Agora vemos as features da criação do Data Factory
  
      Seguimos a boa pratica descrita em recomendações de abreviações
      <a href="https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations" title="Recomendações de Abreviações"> 📕Clique aqui para ler</a>
       <p align="left">
-       <img width="100" src="asset/3_DashboardPrincipal_ADF.jpg">
+       <img width="100" src="asset/3_Dashboardprincipal_ADF.jpg">
       </p>
     
      
