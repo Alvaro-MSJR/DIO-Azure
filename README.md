@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".iniciorapido.JPG">
+    <img width="100" src="iniciorapido.JPG">
 </p>
 <p align="left"><h1> # DIO-Azure  </h1></p>
 <p align="center"><h1>BootCamp : Azure Databricks </h1></p>
