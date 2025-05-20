@@ -41,11 +41,23 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
   2) Não usamos uma conta de estudande, usamos uma contra free por 30 dias.
   3) Veremos os prints de passo a passo da criação da conta e a criação de um recurso que no caso e o Data Fabric
   4) Alteramos o idioma para inglês durante o processo de criação de subscription (assinatura)
+     Na imagem vemos 2 assinaturas, porém a selecionada e a Default.
      <p align="left">
        <img width="100" src="asset/1_Assinatura_azure.jpg">
-          <img width="100" src="asset/1_Assinatura_azure.jpg">
      </p>
+  5) Na figura abaixo vemos o Dashboard Principal (Painel) customizado, com as seguintes features:
+     Recurso: Data factory
+              Horario local
+              Metrica de Segurança
+              Metrica de Contagem de Pipelines executados
+      <p align="left">
+       <img width="100" src="asset/2_DashboardPrincipal.jpg">
+      </p>
+  6) Agora vemos as features da criação do Data Factory
 
+     Seguimos a boa pratica descrita em recomendações de abreviações
+     <ref>https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations</ref>
+     
 ## 👨‍💻 Desenvolvedor/Aluno
 
 <p>
