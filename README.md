@@ -24,18 +24,26 @@ Entendendo o Desafio
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
 
 Como entregar esse projeto?
-Chegou a hora de você construir um portfólio ainda mais rico e impressionar futuros recrutadores, para isso é sempre importante mostrar os resultados do seu esforço e como você os obteve deixando claro o seu racional, para isso faça da seguinte maneira:
+Chegou a hora de você construir um portfólio ainda mais rico e impressionar futuros recrutadores, para isso é sempre importante mostrar os resultados do seu esforço
+e como você os obteve deixando claro o seu racional, para isso faça da seguinte maneira:
 
 1. Crie um novo repositório no github com um nome a sua preferência
-2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças
-3. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+2. Crie um arquivo chamado readme.md;
+3.    Deixe alguns prints ;
+4.    Descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo;
+5.    Após a IA analisar suas sentenças
+6. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
  
 ## ✨ Solution
 
-- 1
-- 2
-
+  1) Neste desafio navegamos de forma básica pela interface do Azure.
+  2) Não usamos uma conta de estudande, usamos uma contra free por 30 dias.
+  3) Veremos os prints de passo a passo da criação da conta e a criação de um recurso que no caso e o Data Fabric
+  4) Alteramos o idioma para inglês durante o processo de criação de subscription (assinatura)
+     <p align="center">
+       <img width="100" src=".asset/1_Assinatura_azure.jpg">
+     </p>
 
 ## 👨‍💻 Desenvolvedor/Aluno
 
