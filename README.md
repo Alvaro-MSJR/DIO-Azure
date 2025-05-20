@@ -54,9 +54,13 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
        <img width="100" src="asset/2_DashboardPrincipal.jpg">
       </p>
   6) Agora vemos as features da criação do Data Factory
-
+ 
      Seguimos a boa pratica descrita em recomendações de abreviações
-     <ref>https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations</ref>
+     <a href="https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations" title="Recomendações de Abreviações"> 📕Clique aqui para ler</a>
+      <p align="left">
+       <img width="100" src="asset/3_DashboardPrincipal_ADF.jpg">
+      </p>
+    
      
 ## 👨‍💻 Desenvolvedor/Aluno
 
