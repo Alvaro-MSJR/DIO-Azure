@@ -43,7 +43,7 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
   4) Alteramos o idioma para inglês durante o processo de criação de subscription (assinatura)
      Na imagem vemos 2 assinaturas, porém a selecionada e a Default.
      <p align="left">
-       <img width="300" src="asset/1_Assinatura_azure.jpg">
+       <img width="400" src="asset/1_Assinatura_azure.jpg">
      </p>
   5) Na figura abaixo vemos o Dashboard Principal (Painel) customizado, com as seguintes features:
      Recurso: Data factory
@@ -51,21 +51,21 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
               Metrica de Segurança
               Metrica de Contagem de Pipelines executados
       <p align="left">
-       <img width="300" src="asset/2_DashboardPrincipal.jpg">
+       <img width="400" src="asset/2_DashboardPrincipal.jpg">
       </p>
   6) Agora vemos as features da criação do Data Factory
  
      Seguimos a boa pratica descrita em recomendações de abreviações
      <a href="https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations" title="Recomendações de Abreviações"> 📕Clique aqui para ler</a>
       <p align="left">
-       <img width="300" src="asset/3_DashboardPrincipal_ADF.jpg">
+       <img width="400" src="asset/3_DashboardPrincipal_ADF.jpg">
       </p>
 	  
   7) Vamos ver agora as features do recursos Data Factory.
      Temos a tela principal com um "overview" de todas as possiveis configurações
 
       <p align="left">
-       <img width="300" src="asset/4_adf_recursos_t1.jpg">
+       <img width="400" src="asset/4_adf_recursos_t1.JPG">
       </p>
 	  
 	 Temos o "log" de atividades.
@@ -76,7 +76,7 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
 		Que da suporte a gestão de custos dos recursos utilizados
 
       <p align="left">
-       <img width="300" src="asset/5_adf_recursos_t2_Tags.jpg">
+       <img width="400" src="asset/5_adf_recursos_t2_Tags.JPG">
       </p>
 	  
 	 Temos o "Monitoring"
@@ -99,7 +99,7 @@ e como você os obteve deixando claro o seu racional, para isso faça da seguint
 		  Locks
 		    Que cria acesso ou locks para algumas funcionalidades do recurso.
       <p align="left">
-       <img width="300" src="asset/6_adf_recursos_t3_Settings_Properties.jpg">
+       <img width="400" src="asset/6_adf_recursos_t3_Settings_Properties.JPG">
       </p>
 	  
   
